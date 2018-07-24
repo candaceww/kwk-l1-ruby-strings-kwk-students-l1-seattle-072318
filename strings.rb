@@ -1,6 +1,6 @@
-puts "Welcome, please type in your guests."
+puts "Welcome, please type in your guest name."
 guest_name=gets.strip
-puts "Thank you, which party are you going to?"
+puts "Thank you, what's the name of this party?"
 party_name=gets.strip
 puts "Ok when is this party?"
 date=gets.strip
